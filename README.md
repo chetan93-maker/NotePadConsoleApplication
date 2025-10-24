@@ -1,4 +1,4 @@
-# 📝 NotesPad (Java File I/O Project)
+# 📝 NotePad (Java File I/O Project)
 
 A simple **console-based Notes Application** built using **Java File Handling (FileReader, FileWriter, BufferedReader, BufferedWriter)**.  
 This project allows users to add, view, delete, search, and clear notes — all stored in a local text file (`notes.txt`).
